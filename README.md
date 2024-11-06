@@ -1,6 +1,6 @@
 # WebDev
 
-Repository to hold all of my web development files while learning.
+Repository to hold all of my web development files, projects, and notes while learning.
 
 ## Purpose and Goals
 
